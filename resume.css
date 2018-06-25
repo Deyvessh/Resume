@@ -1,4 +1,6 @@
 body{
     background-color: lightcyan;
     font-family: cursive;
+    font-weight: bolder;
+    text-shadow: grey;
 }
